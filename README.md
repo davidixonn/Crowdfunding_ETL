@@ -115,4 +115,8 @@ The instructions for this mini project are divided into the following subsection
 
 We showcased an ETL pipeline utilizing Python, Pandas, and a combination of both Python dictionary and regular expression techniques for data extraction and transformation. We then generated four CSV files, used the data in these files to design an ERD and table schema, and loaded the data into a Postgres database from the CSV files via dataframes.
 
+<img width="772" alt="Screen Shot 2023-01-12 at 7 45 27 PM" src="https://user-images.githubusercontent.com/113266571/212232700-02577511-88ed-414c-944f-d3f348aa51a5.png">
+
+
+
 
