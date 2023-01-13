@@ -112,3 +112,7 @@ The instructions for this mini project are divided into the following subsection
 8. Verify that each table has the correct data by running a SELECT statement for each.
 
 # **Results**
+
+We showcased an ETL pipeline utilizing Python, Pandas, and a combination of both Python dictionary and regular expression techniques for data extraction and transformation. We then generated four CSV files, used the data in these files to design an ERD and table schema, and loaded the data into a Postgres database from the CSV files via dataframes.
+
+
